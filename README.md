@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Wakhiwe Mathuthu,<br>I do Android Application Development<br>
+Hi I'm Wakhiwe Mathuthu
 
 
 ## 🌐 Socials:
