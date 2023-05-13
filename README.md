@@ -3,6 +3,8 @@ Welcome to my Github profile! I'm passionate about web development and constantl
 
 If you're looking for a dedicated and reliable team member, then look no further. I'm committed to producing high-quality work that meets the needs of clients and end-users alike. I have a keen eye for detail and always strive for excellence in everything I do.
 
+So if you're interested in collaborating on a project or just want to chat about web development, feel free to reach out. Let's work together to create something great!
+
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21691764/wakhiwe-mathuthu) 
 
