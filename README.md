@@ -32,4 +32,4 @@ To handle the backend infrastructure and database management, I work with Fireba
 />
 <img src="https://github-readme-stats.vercel.app/api?username=wakhiwemathuthu&show_icons=true" />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhiwemathuthu&hide_progress=true"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhiwemathuthu&hide_progress=true"/>-->
