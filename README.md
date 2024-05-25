@@ -1,9 +1,3 @@
-# About Me:
-👋 Full-stack developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. Passionate about crafting seamless web applications and building engaging user experiences. Let's create something incredible together! 👨‍💻🚀
-
-
-
-
 # Tech Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
